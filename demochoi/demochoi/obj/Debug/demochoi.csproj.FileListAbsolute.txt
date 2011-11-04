@@ -1,0 +1,8 @@
+C:\Users\Kristin Allmandinger\Doanasp\demochay\demochoi\demochoi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kristin Allmandinger\Doanasp\demochay\demochoi\demochoi\obj\Debug\demochoi.Form1.resources
+C:\Users\Kristin Allmandinger\Doanasp\demochay\demochoi\demochoi\obj\Debug\demochoi.Properties.Resources.resources
+C:\Users\Kristin Allmandinger\Doanasp\demochay\demochoi\demochoi\obj\Debug\demochoi.csproj.GenerateResource.Cache
+C:\Users\Kristin Allmandinger\Doanasp\demochay\demochoi\demochoi\bin\Debug\demochoi.exe
+C:\Users\Kristin Allmandinger\Doanasp\demochay\demochoi\demochoi\bin\Debug\demochoi.pdb
+C:\Users\Kristin Allmandinger\Doanasp\demochay\demochoi\demochoi\obj\Debug\demochoi.exe
+C:\Users\Kristin Allmandinger\Doanasp\demochay\demochoi\demochoi\obj\Debug\demochoi.pdb
