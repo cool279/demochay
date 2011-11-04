@@ -18,7 +18,7 @@ namespace demochoi
 
         private void btn_Click(object sender, EventArgs e)
         {
-            txtc.Text = (int.Parse(txta.Text) * int.Parse(txtb.Text)).ToString();
+            txtc.Text = (int.Parse(txta.Text) - int.Parse(txtb.Text)).ToString();
         }
     }
 }
