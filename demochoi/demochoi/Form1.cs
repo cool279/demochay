@@ -15,5 +15,10 @@ namespace demochoi
         {
             InitializeComponent();
         }
+
+        private void btn_Click(object sender, EventArgs e)
+        {
+            txtc.Text = (int.Parse(txta.Text) * int.Parse(txtb.Text)).ToString();
+        }
     }
 }
