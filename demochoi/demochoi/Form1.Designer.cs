@@ -50,7 +50,7 @@
             this.btn.Name = "btn";
             this.btn.Size = new System.Drawing.Size(115, 28);
             this.btn.TabIndex = 1;
-            this.btn.Text = "tru";
+            this.btn.Text = "nhan";
             this.btn.UseVisualStyleBackColor = true;
             this.btn.Click += new System.EventHandler(this.btn_Click);
             // 
